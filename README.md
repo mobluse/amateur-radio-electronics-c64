@@ -13,4 +13,5 @@ x16emu assumes the program is in upper case so only capital letters should be us
 The programs here should be close to the originals.
 
 The next step might be to convert the programs to TI-BASIC, Casio BASIC, or MicroPython so they could run on calculators. 
-C64 programs can already run on Android phones using emulators e.g. [Frodo C64](https://play.google.com/store/apps/details?id=org.ab.c64).
+C64 programs can already run on Android phones using emulators e.g. [Frodo C64](https://play.google.com/store/apps/details?id=org.ab.c64)
+or [Mobile C64](https://play.google.com/store/apps/details?id=de.joergjahnke.c64.android).
