@@ -1,6 +1,5 @@
 #!/bin/sh
-# petcat and c1541 are included in VICE 2.4 - 3.5
-# TODO: Test!
+# petcat and c1541 are included in VICE 2.4 - 3.7
 rm *.d64
 rm *.prg
 ls *.bas | sed 's/\.bas//' | while read p
